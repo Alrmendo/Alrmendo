@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alolafamio" target="blank"><img src="https://img.shields.io/twitter/follow/alolafamio?logo=twitter&style=for-the-badge" alt="alolafamio" /></a> </p>
 
-- 🔭 I’m currently studying at **University of Science, VNU-HCMUS**
+- 🔭 I’m currently studying at **University of Science, HCMUS**
 
 - 🌱 I’m currently learning **Information and Technology**
 
