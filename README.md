@@ -24,9 +24,7 @@
 <a href="https://twitter.com/alolafamio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alolafamio" height="30" width="40" /></a>
 </p>
 
-
-  <!-- GitHub stats image -->
-  ![](https://raw.githubusercontent.com/Alrmendo/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 </body>
 </html>
