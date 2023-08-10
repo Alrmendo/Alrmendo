@@ -15,12 +15,21 @@
 
 - ⚡ Fun fact **I am a Simp ?!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/alolafamio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alolafamio" height="30" width="40" /></a>
+<a href="https://fb.com/nguyễn triết" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn triết" height="30" width="40" /></a>
+<a href="https://discord.gg/0726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0726" height="30" width="40" /></a>
 </p>
 
-### My Github Contribution
+
+
+<h2 align="left">Stats</h2>
+<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=alrmendo&show_icons=true&locale=en&layout=compact" alt="alrmendo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alrmendo&" alt="alrmendo" /></p>
+
+<h2 align="left">My Github Contribution</h2>
 
 ![snake gif](https://github.com/Alrmendo/Alrmendo/blob/output/github-contribution-grid-snake.svg)
 
