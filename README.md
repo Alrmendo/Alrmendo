@@ -26,7 +26,7 @@
 
 
   <!-- GitHub stats image -->
-  ![](https://raw.githubusercontent.com/alrmendo/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/Alrmendo/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 </body>
 </html>
