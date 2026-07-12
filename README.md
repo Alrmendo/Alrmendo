@@ -11,9 +11,8 @@
 
 - 🌱 I’m currently learning **Information and Technology**
 
-- 📫 How to reach me **nmtriet22@clc.fitus.edu.vn**
+- 📫 How to reach me **ntriet1606@gmail.com**
 
-- ⚡ Fun fact **I am a Simp ?!**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
