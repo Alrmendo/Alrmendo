@@ -1,46 +1,51 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Nguyễn Minh Triết</h1>
 
-###
+<p align="center">
+AI Engineer building practical AI systems from research to production.
+</p>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+<div align="center">
+  <a href="https://portfolio-triet-nguyen.vercel.app/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
+  </a>
+  <a href="https://www.linkedin.com/in/triet-nguyen-cs" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin"  />
+  </a>
+  <a href="https://www.facebook.com/trietngyne/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook"  />
+  </a>
+  <a href="mailto:ntriet1606@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email"  />
+  </a>
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+I'm interested in building software that combines machine learning research with practical engineering.
 
-###
+Currently, I'm working on:
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Alrmendo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=Alrmendo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
-</div>
+- **[Khớp](link)** — AI-powered freelance job matching.
+- **[Image Super-Resolution Research](link)** — reproducing and benchmarking modern image restoration models.
+- **[Repo Archaeologist](link)** — a developer tool for understanding software evolution through Git history.
 
-###
+My interests include artificial intelligence, computer vision, developer tools, and open-source software.
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alrmendo/Alrmendo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alrmendo/Alrmendo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alrmendo/Alrmendo/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+<p align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alrmendo&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+<i>Build. Research. Share.</i>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI%2FML+%26+dev+tools;Image+Super-Resolution+Research;Writing+about+AI+systems;Open+to+AI%2FSWE+opportunities" alt="typing animation" />
+</p>
