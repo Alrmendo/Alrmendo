@@ -35,7 +35,7 @@ My interests include artificial intelligence, computer vision, developer tools, 
 
 <p align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alrmendo&theme=github-dark&hide_border=true"/>
+<img width="90%" src="https://github.pumbas.net/api/contributions/Alrmendo?colour=FFFFFF&bgColour=161B22&dotColour=58A6FF"/>
 
 </p>
 
