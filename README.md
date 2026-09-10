@@ -25,7 +25,6 @@ I'm interested in building software that combines machine learning research with
 
 Currently, I'm working on:
 
-- **[LightED](link)** — AI-powered teacher dashboard.
 - **[Image Super-Resolution Research](link)** — reproducing and benchmarking modern image restoration models.
 - **[Repo Archaeologist](link)** — a developer tool for understanding software evolution through Git history.
 
